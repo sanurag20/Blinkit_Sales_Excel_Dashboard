@@ -1,4 +1,4 @@
-# Blinki_Sales_Dashboard
+# Blinkit_Sales_Dashboard
 ![Dashboard View](https://github.com/sanurag20/Blinkit_Sales_Excel_Dashboard/blob/main/Blinkit%20Sales%20Dashboard.png)
 
 ---
